@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tic",
+				"ticket_booklets"
+			],
+			[
+				"to",
+				"total_day"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bitlasoft/Project/ts/app/views/t/create_reassignments.js.erb",
+		"/home/bitlasoft/Project/ts/db/migrate/1161_create_bundle_receipt_print.rb",
+		"/home/bitlasoft/Project/ts/db/migrate/1160_add_deliver_status_to_ticket_booklets.rb",
+		"/home/bitlasoft/Project/ts/app/shared/privilege_constants.rb",
+		"/home/bitlasoft/Project/ts/app/assets/javascripts/admin_app/main_application.js.erb",
+		"/home/bitlasoft/Project/ts/lib/watir/data/a000_Login_data.csv",
+		"/home/bitlasoft/Project/ts/lib/watir/data/a001_System_Privileges_data.csv",
+		"/home/bitlasoft/Project/ts/app/models/reservation.rb",
+		"/home/bitlasoft/Project/ts/app/controllers/bookings_controller.rb",
+		"/home/bitlasoft/Project/ts/lib/watir/scenarios/b980_Booking.csv",
+		"/home/bitlasoft/Project/ts/lib/watir/data/b980_Booking_data.csv",
+		"/home/bitlasoft/Project/ts/lib/watir/common/common_b980_Booking.csv",
+		"/home/bitlasoft/Project/ts/lib/watir/common/common_b208_TieUpAgent_ServiceOption.csv",
+		"/home/bitlasoft/Project/ts/app/views/t/_password_form_new.html.erb",
+		"/home/bitlasoft/Project/ts/lib/watir/SBTEngine.rb",
+		"/home/bitlasoft/Project/ts/config/locales/en/views/common-en.yml",
+		"/home/bitlasoft/Project/ts/app/views/charts/_route_diagram_chart.html.erb",
+		"/home/bitlasoft/Project/ts/app/models/admin_type.rb",
+		"/home/bitlasoft/Project/ts/app/views/layouts/_routes.html.erb",
+		"/home/bitlasoft/Project/ts/db/migrate/1159_add_multiple_commission_to_employees.rb",
+		"/home/bitlasoft/Project/ts/db/migrate/1159_add_delivery_sequence_to_travels.rb",
+		"/home/bitlasoft/Project/ts/app/controllers/tickets_controller.rb",
+		"/home/bitlasoft/Project/ts/app/controllers/application_controller.rb",
+		"/home/bitlasoft/Project/ts/app/assets/javascripts/admin_app/ibooking.js.erb",
+		"/home/bitlasoft/Project/ts/app/views/charts/_rto_reservation_chart_for_chile.html.erb",
+		"/home/bitlasoft/Project/ts/app/views/charts/_reservation_chart.html.erb",
+		"/home/bitlasoft/Project/ts/app/controllers/t_controller.rb",
+		"/home/bitlasoft/Project/ts/app/views/charts/chart_search.js.erb",
+		"/home/bitlasoft/Project/ts/app/controllers/charts_controller.rb",
+		"/home/bitlasoft/Project/ts/app/views/ibooking/bookings/_passenger_select_form_new.html.erb",
+		"/home/bitlasoft/Project/ts/app/views/t/_open_ticket_form.html.erb",
+		"/home/bitlasoft/Project/ts/app/views/t/_create_open_ticket_coupon.html.erb",
+		"/home/bitlasoft/Project/ts/app/models/corporate_companies.rb",
+		"/home/bitlasoft/Project/ts/app/models/coupon.rb",
+		"/home/bitlasoft/Project/ts/app/views/t/search_results.js.erb",
+		"/home/bitlasoft/Project/ts/app/views/admin/travel_branches/_corporate_user_ids.html.erb",
+		"/home/bitlasoft/Project/ts/db/migrate/1156_add_inscription_region_to_coaches.rb",
+		"/home/bitlasoft/Project/ts/app/views/charts/view_chart_types.js.erb",
+		"/home/bitlasoft/Project/ts/app/views/charts/_ministery_transp_pickup_chart.html.erb",
+		"/home/bitlasoft/Project/ts/node_modules/lodash/_createMathOperation.js",
+		"/home/bitlasoft/Project/ts/db/migrate/1155_add_inscription_region_to_coaches.rb",
+		"/home/bitlasoft/Project/ts/lib/watir/scenarios/f027_CreateMOT_UseInBooking.csv",
+		"/home/bitlasoft/Project/ts/config/database.yml",
+		"/home/bitlasoft/Project/ts/app/controllers/admin/coaches_controller.rb",
+		"/home/bitlasoft/Project/ts/db/migrate/1105_add_index_for_travel_id_in_ticket_addition.rb",
+		"/home/bitlasoft/Project/ts/Gemfile",
+		"/home/bitlasoft/Project/ts/app/views/bookings/update_passenger_details.js.erb",
+		"/home/bitlasoft/Project/ts/app/views/charts/update_passengers.js.erb",
+		"/home/bitlasoft/Project/ts/app/views/charts/passengers_data_updation.js.erb",
+		"/home/bitlasoft/Project/ts/db/migrate/1115_add_column_rapid_print_template_to_travel_prefs_data.rb",
+		"/home/bitlasoft/Project/ts/app/views/charts/mot",
+		"/home/bitlasoft/Project/ts/.byebug_history",
+		"/home/bitlasoft/Project/ts/db/migrate/1153_add_column_to_city_pair_rate.rb",
+		"/home/bitlasoft/Project/ts/config/app_config.yml",
+		"/home/bitlasoft/Project/ts/lib/tasks/apartment.rake",
+		"/home/bitlasoft/Project/paybitla/Gemfile.lock"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"t_",
+				"app/controllers/t_controller.rb"
+			],
+			[
+				"t",
+				"app/controllers/t_controller.rb"
+			],
+			[
+				"t/_reassignments_body.html.erb",
+				"app/views/t/_reassignments_body.html.erb"
+			],
+			[
+				"create_re",
+				"app/views/t/create_reassignments.js.erb"
+			],
+			[
+				"1161",
+				"db/migrate/1161_create_bundle_receipt_print.rb"
+			],
+			[
+				"1160",
+				"db/migrate/1160_add_deliver_status_to_ticket_booklets.rb"
+			],
+			[
+				"t_contr",
+				"app/controllers/t_controller.rb"
+			],
+			[
+				"bundle_re",
+				"app/models/bundle_receipt_print.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"app_co",
+				"config/app_config.yml"
+			],
+			[
+				"charts/_ministery_transp_pickup_chart.html.erb",
+				"app/views/charts/_ministery_transp_pickup_chart.html.erb"
+			],
+			[
+				"admin",
+				"app/models/admin_type.rb"
+			],
+			[
+				"_route",
+				"app/views/charts/_route_diagram_chart.html.erb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"tool",
+				"app/models/tool_set.rb"
+			],
+			[
+				"role",
+				"app/models/role.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"common-en",
+				"config/locales/en/views/common-en.yml"
+			],
+			[
+				"_route_di",
+				"app/views/charts/_route_diagram_chart.html.erb"
+			],
+			[
+				"_rout",
+				"app/views/layouts/_routes.html.erb"
+			],
+			[
+				"1156",
+				"db/migrate/1156_add_multiple_commission_to_employees.rb"
+			],
+			[
+				"_password_form_new",
+				"app/views/t/_password_form_new.html.erb"
+			],
+			[
+				"bookings_contr",
+				"app/controllers/bookings_controller.rb"
+			],
+			[
+				"main_application.j",
+				"app/assets/javascripts/admin_app/main_application.js.erb"
+			],
+			[
+				"admin_typ",
+				"app/models/admin_type.rb"
+			],
+			[
+				"t_reservation_chart_for_chile.html",
+				"app/views/charts/_rto_reservation_chart_for_chile.html.erb"
+			],
+			[
+				"app/controllers/bookings_controller.rb",
+				"app/controllers/bookings_controller.rb"
+			],
+			[
+				"reservation_chart",
+				"app/views/charts/_reservation_chart.html.erb"
+			],
+			[
+				"chart",
+				"app/controllers/charts_controller.rb"
+			],
+			[
+				"open_ticket_form",
+				"app/views/t/_open_ticket_form.html.erb"
+			],
+			[
+				"search_results",
+				"app/views/t/search_results.js.erb"
+			],
+			[
+				"view_",
+				"app/views/charts/view_chart_types.js.erb"
+			],
+			[
+				"_mi",
+				"app/views/charts/_ministery_transp_pickup_chart.html.erb"
+			],
+			[
+				"createMoT",
+				"node_modules/lodash/_createMathOperation.js"
+			],
+			[
+				"createm",
+				"lib/watir/scenarios/f027_CreateMOT_UseInBooking.csv"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"",
+				"app/controllers/charts_controller.rb"
+			],
+			[
+				"passender",
+				"app/views/charts/passengers_data_updation.js.erb"
+			],
+			[
+				"upd",
+				"app/views/bookings/update_passenger_details.js.erb"
+			],
+			[
+				"update_p",
+				"app/views/charts/update_passengers.js.erb"
+			],
+			[
+				"1155",
+				"db/migrate/1155_add_inscription_region_to_coaches.rb"
+			],
+			[
+				"charts",
+				"app/controllers/charts_controller.rb"
+			],
+			[
+				"minis",
+				"app/views/charts/_ministery_transp_pickup_chart.html.erb"
+			],
+			[
+				"coach",
+				"app/controllers/admin/coaches_controller.rb"
+			],
+			[
+				"coache",
+				"app/controllers/admin/coaches_controller.rb"
+			],
+			[
+				"app_con",
+				"config/app_config.yml"
+			],
+			[
+				"apartmen",
+				"lib/tasks/apartment.rake"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
